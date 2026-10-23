@@ -1,4 +1,4 @@
-Make sure that all files are in the same folder.
+Make sure that all files are in the same folder, if for some reason they aren't it won't work.
 
 This is my final project, and my first game. 
 It isnt anything too good but i do plan on finishing it. 
