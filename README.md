@@ -1,6 +1,6 @@
 Make sure that all files are in the same folder, if for some reason they aren't it won't work.
 
-This is the website version, so it may not always be fully up to date. If you want the most up to date version check out my other Repo for Starforged.
+This is the downloadable version, however there is a website. Although it may not always be up to date. If you want to check out the website version, then just go to my other Repos.
 
 This is my final project, and my first game. 
 It isnt anything too good but i do plan on finishing it. 
